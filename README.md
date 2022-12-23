@@ -7,4 +7,5 @@ Just run *make* or gcc -digits.c utils.c main.c -o docs
 # how to use it
 
 docs cpf 012345678 --masked "###.###.###-##"
+
 docs cnpj 012345670001 --masked "##.###.###/####-##"
